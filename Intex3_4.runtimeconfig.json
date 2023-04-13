@@ -1,9 +1,9 @@
 {
   "runtimeOptions": {
-    "tfm": "netcoreapp4.0",
+    "tfm": "net472",
     "framework": {
-      "name": "Microsoft.AspNetCore.App",
-      "version": "4.7.2"
+      "name": "Microsoft.NETCore.App",
+      "version": "2.1.15"
     },
     "configProperties": {
       "System.GC.Server": true,
